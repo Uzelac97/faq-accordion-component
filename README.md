@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:
+- Live Site URL: https://faq-accordion-component-uzelac97.netlify.app/
 
 ### Built with
 
