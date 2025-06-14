@@ -13,7 +13,6 @@ function FAQ() {
           <h1 className="title">FAQs</h1>
         </div>
         <div className="faq-list">
-          {/* OVO SUTRA RAZMOTRITI !!!!!! ---> dolee  */}
           {faqData.map((item) => (
             <div className="accordion-item" key={item.id}>
               <FAQItem question={item.question} answer={item.answer} />
